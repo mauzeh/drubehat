@@ -1,4 +1,12 @@
 default:
+
+  extensions:
+    Behat\MinkExtension\Extension:
+      base_url:  BASE_URL
+    Drupal\DrupalExtension\Extension:
+      drush:
+        alias: DRUSH_ALIAS
+
   context:
     parameters:
       drupal_users:
@@ -21,10 +29,3 @@ default:
       # the node ID of the group
       vsite:
         2
-
-  extensions:
-    Behat\MinkExtension\Extension:
-      base_url:  BASE_URL
-    Drupal\DrupalExtension\Extension:
-      drush:
-        alias: DRUSH_ALIAS
