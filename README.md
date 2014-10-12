@@ -4,7 +4,7 @@ Boilerplate configuration for using Behat with your Drupal 6/7/8 site.
 
 Installation
 ========
-1. You need [Composer](https://getcomposer.org/) to install this project. 
+1. You need [Composer](https://getcomposer.org/) to retrieve the dependencies of this project. 
 2. Clone this repository.
 3. Run ```composer install```.
 4. Copy the file `behat.local.yml.example` and name it `behat.local.yml`.
