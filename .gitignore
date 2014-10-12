@@ -2,3 +2,4 @@ behat.local.yml
 aliases.drushrc.php
 /vendor
 /bin
+/.idea
