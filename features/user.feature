@@ -12,3 +12,4 @@ Feature: Example user test.
       Then I follow "Edit"
       Then I press "Delete"
       Then I press "Delete"
+
