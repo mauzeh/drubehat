@@ -15,7 +15,7 @@ I should be able to create, edit, and delete page content
     When I go to "node/add/page"
     Then I should not see "Access denied"
 
-  @api @first
+  @api
   Scenario: Logged in users are able to create Basic Page content
     Given I am logging in as "admin"
     When I follow "Add content"
@@ -25,13 +25,7 @@ I should be able to create, edit, and delete page content
     And I press "Save"
     Then I should see "Basic page Test page created with Behat has been created."
 
-  @api @first
-  Scenario: Logged in users are able to update Basic Page content
-    Given I am logging in as "admin"
-    And I am on a "node" page titled "Test page created with Behat"
-    Then I should see "Test page created with Behat"
-
-  @api @last
+  @api
   Scenario: Logged in users are able to remove Basic Page content
     Given I am logging in as "admin"
     When I follow "Content"
