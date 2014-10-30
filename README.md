@@ -4,7 +4,6 @@ Boilerplate configuration for using Behat with your Drupal 7 site. This configur
 
 Installation
 ========
-These instructions are for Mac and Linux machines. If you are using Windows, 
 1. Make sure you have a clean empty Drupal 7 installation running on your development machine (or VM box).
 2. [Download the ZIP for this repository](https://github.com/mauzeh/drubehat/archive/master.zip).
 3. Unzip the file in a directory of your choice.
