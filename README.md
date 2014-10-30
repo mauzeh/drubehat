@@ -1,6 +1,6 @@
 Drubehat
 ========
-Boilerplate configuration for using Behat with your Drupal 7 site.
+Get started with Behat and Drupal easily.
 
 Installation
 ========
