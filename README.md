@@ -8,6 +8,7 @@ This repository contains the basic configuration necessary to run Behat tests fr
 
 Installation
 ========
+1. [Download and install a free trial of PHPStorm (free for one month)](https://www.jetbrains.com/phpstorm/).
 1. Make sure you have a clean empty Drupal 7 installation running on your development machine (or VM box).
 2. [Download the ZIP for this repository](https://github.com/mauzeh/drubehat/archive/master.zip).
 3. Unzip the file in a directory of your choice.
