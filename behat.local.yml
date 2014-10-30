@@ -24,7 +24,7 @@ default:
 
   extensions:
     Behat\MinkExtension\Extension:
-      base_url: http://localhost/me/dinner-with-drupal/site
+      base_url: http://localhost/drupal-test/
     Drupal\DrupalExtension\Extension:
       drush:
-        alias: dwd
+        alias: drupal-test
