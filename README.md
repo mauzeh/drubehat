@@ -8,4 +8,4 @@ Installation
 2. Unzip the file in a directory of your choice.
 3. Start PHPStorm
 4. Click "Open..." and select the directory "drubehat" that you just unzipped.
-6. 
+5. Open up the file 
