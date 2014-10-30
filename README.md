@@ -8,10 +8,7 @@ Installation
 2. [Download the ZIP for this repository](https://github.com/mauzeh/drubehat/archive/master.zip).
 3. Unzip the file in a directory of your choice.
 4. Start PHPStorm, click "Open..." and select the directory ```drubehat-master/``` that you just unzipped.
-5. Install the required dependencies. Inside PHPStorm, open the Terminal (see screenshot below) and enter:
-```
-$ ./composer.phar install
-```
+5. Install the required dependencies. Inside PHPStorm, open the Terminal (see screenshot below) and enter ```$ ./composer.phar install```
 6. Open up the file ```behat.local.yml``` and fill in the two values for the ```base_url``` and the ```drush alias```, as illustrated below.
 7. Run the example tests! See screenshot below.
 
