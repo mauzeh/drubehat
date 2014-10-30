@@ -7,7 +7,7 @@ Installation
 1. Make sure you have a clean empty Drupal 7 installation running on your development machine (or VM box).
 2. [Download the ZIP for this repository](https://github.com/mauzeh/drubehat/archive/master.zip).
 3. Unzip the file in a directory of your choice.
-4. Start PHPStorm, click "Open..." and select the directory "drubehat" that you just unzipped.
+4. Start PHPStorm, click "Open..." and select the directory ```drubehat-master``` that you just unzipped.
 5. Install the required dependencies. Inside PHPStorm, open the Terminal (see screenshot below) and enter:
 ```
 $ ./composer.phar install
