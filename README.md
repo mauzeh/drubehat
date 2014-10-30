@@ -1,6 +1,6 @@
 Drubehat
 ========
-Boilerplate configuration for using Behat with your Drupal 7 site. This configuration includes the full dependencies so that you do not need to install Composer.
+Boilerplate configuration for using Behat with your Drupal 7 site.
 
 Installation
 ========
