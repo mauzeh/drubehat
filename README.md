@@ -16,7 +16,7 @@ Install the required dependencies
 ========
 ![Install the required dependencies](screenshots/composer_install.png)
 
-Configuration screenshot
+Configuration
 =========
 ![Configuration](screenshots/configuration.png)
 
