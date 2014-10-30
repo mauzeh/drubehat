@@ -1,6 +1,10 @@
 Drubehat
 ========
-Get started with Behat and Drupal easily.
+This repository contains the basic configuration necessary to run Behat tests from within PHPStorm. Included are:
+
+1. Behat configuration.
+2. Sample tests (adapted from [OpenScholar](https://www.drupal.org/project/openscholar))
+3. PHPStorm Run configuration to run the tests.
 
 Installation
 ========
